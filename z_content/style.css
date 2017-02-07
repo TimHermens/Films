@@ -191,7 +191,7 @@ div.score
 {
 	position: absolute;
 	top: 39px;
-	left: 10px;
+	left: 8px;
     overflow: hidden;
     visibility: hidden;
     -webkit-transform: rotate(120deg);
