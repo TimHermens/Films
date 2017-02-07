@@ -190,8 +190,8 @@ div.hexagon-in2
 div.score 
 {
 	position: absolute;
-	top: 43px;
-	left: -5px;
+	top: 38px;
+	left: 15px;
     overflow: hidden;
     visibility: hidden;
     -webkit-transform: rotate(120deg);
