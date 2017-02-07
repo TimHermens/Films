@@ -98,26 +98,26 @@ div#content
 
 .first
 {
-	min-width: 210px;
-	max-width: 210px;
+	min-width: 150px;
+	max-width: 150px;
 }
 
 .second
 {
-	min-width: 450px;
-	max-width: 450px;
+	min-width: 610px;
+	max-width: 610px;
 }
 
 .third
 {
-	min-width: 150px;
-	max-width: 150px;
+	min-width: 100px;
+	max-width: 100px;
 }
 
 .fourth
 {
-	min-width: 150px;
-	max-width: 150px;
+	min-width: 100px;
+	max-width: 100px;
 }
 
 .fifth
