@@ -104,7 +104,8 @@ div#content
 
 .second
 {
-	# nothing
+	min-width: 450px;
+	max-width: 450px;
 }
 
 .third
