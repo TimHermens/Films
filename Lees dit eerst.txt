@@ -1,0 +1,20 @@
+Commando's tekst openen
+
+control A
+control C
+
+vorig scherm, blanco veld, shift rechter klik
+
+opdrachtvenster openen
+
+rechts klikken, komt tekst
+
+Klaar.
+
+
+
+Effe checken:
+
+Webbrowser (bovenin) tim hermens intypen
+bovenste regel kiezen
+opent de index.html
