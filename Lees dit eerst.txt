@@ -13,8 +13,8 @@ Klaar.
 
 
 
-Effe checken:
+Effe checken: 
 
-Webbrowser (bovenin) tim hermens intypen
-bovenste regel kiezen
+Webbrowser (bovenin) timhermens.github.com/Films/ intypen
+
 opent de index.html
