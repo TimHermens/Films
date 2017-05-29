@@ -104,16 +104,15 @@ div#content
 
 .second
 {
-	min-width: 520px;
-	max-width: 520px;
+	min-width: 500px;
+	max-width: 500px;
+	margin-right: 20px;
 }
 
 p.summary
 {
 	font-size: 18px;
 	color: #cfcfcf;
-	padding: 0;
-	margin: 0;
 	line-height: 22px;
 	position: relative;
 	top: -30px;
