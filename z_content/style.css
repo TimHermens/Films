@@ -108,6 +108,19 @@ div#content
 	max-width: 520px;
 }
 
+p.summary
+{
+	font-size: 18px;
+	color: #cfcfcf;
+	padding: 0;
+	margin: 0;
+	line-height: 22px;
+	position: relative;
+	top: -30px;
+	font-weight: 100;
+	text-transform: none;
+}
+
 .third
 {
 	min-width: 130px;
