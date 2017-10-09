@@ -77,6 +77,19 @@ div#content
 	margin-right: 0.4em;
 }
 
+p.summary
+{
+	font-size: 20px;
+	color: #cfcfcf;
+	line-height: 28px;
+	position: relative;
+	top: -30px;
+	font-weight: 100;
+	text-transform: none;
+	margin-right: 30px;
+	text-align: justify;
+}
+
 .cell p span.uhd
 {
 	background: #295db2;
@@ -100,6 +113,8 @@ div#content
 {
 	min-width: 200px;
 	max-width: 200px;
+	width: 200px;
+	# background: grey;
 }
 
 .second
@@ -107,37 +122,31 @@ div#content
 	# min-width: 570px;
 	# max-width: 570px;
 	margin-right: 30px;
-}
-
-p.summary
-{
-	font-size: 20px;
-	color: #cfcfcf;
-	line-height: 28px;
-	position: relative;
-	top: -30px;
-	font-weight: 100;
-	text-transform: none;
-	margin-right: 30px;
-	text-align: justify;
+	# background: red;
 }
 
 .third
 {
 	min-width: 185px;
 	max-width: 185px;
+	width: 185px;
+	# background: green;
 }
 
 .fourth
 {
 	min-width: 140px;
 	max-width: 140px;
+	width: 140px;
+	# background: yellow;
 }
 
 .fifth
 {
 	min-width: 85px;
 	max-width: 85px;
+	width: 85px;
+	# background: blue;
 }
 
 span
