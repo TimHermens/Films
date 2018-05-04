@@ -17,4 +17,4 @@ Effe checken:
 
 Webbrowser (bovenin) timhermens.github.com/Films/ intypen
 
-opent de index.html.
+opent de index.html
